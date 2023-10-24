@@ -2,7 +2,6 @@
 
 *Hello, my name is Ankita, and I have a strong passion for Flutter mobile app development. I'm enthusiastic about exploring and harnessing the potential of cutting-edge cloud technologies to create innovative and efficient solutions. I thrive on continuous learning and am always eager to embrace new challenges and expand my knowledge. My goal is to stay at the forefront of mobile app development and contribute to the ever-evolving tech landscape.*
 
-![Screenshot 2023-10-23 053207](https://github.com/harsh082ip/resume/assets/109286547/b025fa04-a97d-446a-84b4-51768093902d)
 
 
 ## Docs
