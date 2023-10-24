@@ -1,0 +1,43 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- project: Notes_App
+  role: Primary Developer - Flutter, Dart, OPENAI API
+  duration: September'6 2023 &mdash; October'3 2023
+  url: "https://github.com/ank809/Notes-App"
+  description: A fully functional Notes App with authentication.
+
+# Springfield Community Outreach Group
+- project: Chat_Application-flutter
+  role: Primary Developer - Flutter, Dart, Firebase
+  duration: Sep'19 2023 &mdash; Oct'8 2023
+  url: "https://github.com/ank809/Chat_Application-flutter"
+  description: A full fledged chatting application with seamless chatting experience.
+
+- project: Todo_App
+  role: Primary Developer - Flutter, Dart, Firebase
+  duration: June'16 2023  &mdash; July'18 2023
+  url: "https://github.com/ank809/Todo_App"
+  description: A fully functional Todo App with authentication.
+
+- project: Password Manager App
+  role: Primary Developer - Flutter, Dart, Firebase
+  duration: June'16 2023  &mdash; July'18 2023
+  url: "https://github.com/ank809/Password-Manager"
+  description: A fully functional Password Manager App where user can save the password.
+
+- project: QR-BAR_Code_Scanner
+  role: Primary Developer - Flutter, Dart
+  duration: June'14 2023
+  url: "https://github.com/ank809/Bar-QR-Code-Scanner"
+  description: A fully functional application which can scan QR/BAR code and shows up the result.
+
+- project: Calculator App
+  role: Primary Developer - Flutter, Dart
+  duration: June'14 2023
+  url: "https://github.com/ank809/Calculator-"
+  description: A fully functional Calculator App with all the basic functionalities.
+
+
+
